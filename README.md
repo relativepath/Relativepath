@@ -20,7 +20,8 @@ WORK EXPERIENCE
 
 US NAVY
 Norfolk, VA, Operations Specialist (Petty Officer Third Class) | 2020 – 2024
-Maintenance Management (AWCS): Served as Assistant Work Center Supervisor for 18 months, overseeing 30–70 monthly maintenance checks to ensure 100% equipment readiness. Directed workflows for teams of 2–8 personnel, ensuring strict adherence to safety protocols and technical standards.
+Maintenance Management (AWCS): Served as Assistant Work Center Supervisor for 18 months, overseeing 30–70 monthly maintenance checks to ensure 100% equipment readiness. 
+Directed workflows for teams of 2–8 personnel, ensuring strict adherence to safety protocols and technical standards.
 Cross-Functional Collaboration: Acted as the primary technical liaison between the Operations department and Engineering divisions (Mechanical, Electrical, and Structural teams), coordinating complex repairs that required specialized expertise.
 Process Automation: Developed a custom Python script to automate data entry for administrative forms, extracting data from disparate databases to auto-populate digital records. This initiative reduced manual entry errors by 90% and saved 150 labor hours.
 Tactical Data Analysis: Operated advanced radar and sensor arrays to synthesize complex data streams into actionable intelligence for command decision-making. 
